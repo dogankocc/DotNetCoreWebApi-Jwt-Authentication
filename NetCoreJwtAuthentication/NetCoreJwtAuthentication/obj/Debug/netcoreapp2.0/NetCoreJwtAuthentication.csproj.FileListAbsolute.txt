@@ -1,0 +1,11 @@
+C:\Users\dogankoc\source\repos\NetCoreJwtAuthentication\NetCoreJwtAuthentication\bin\Debug\netcoreapp2.0\NetCoreJwtAuthentication.deps.json
+C:\Users\dogankoc\source\repos\NetCoreJwtAuthentication\NetCoreJwtAuthentication\bin\Debug\netcoreapp2.0\NetCoreJwtAuthentication.runtimeconfig.json
+C:\Users\dogankoc\source\repos\NetCoreJwtAuthentication\NetCoreJwtAuthentication\bin\Debug\netcoreapp2.0\NetCoreJwtAuthentication.runtimeconfig.dev.json
+C:\Users\dogankoc\source\repos\NetCoreJwtAuthentication\NetCoreJwtAuthentication\bin\Debug\netcoreapp2.0\NetCoreJwtAuthentication.dll
+C:\Users\dogankoc\source\repos\NetCoreJwtAuthentication\NetCoreJwtAuthentication\bin\Debug\netcoreapp2.0\NetCoreJwtAuthentication.pdb
+C:\Users\dogankoc\source\repos\NetCoreJwtAuthentication\NetCoreJwtAuthentication\obj\Debug\netcoreapp2.0\NetCoreJwtAuthentication.csprojAssemblyReference.cache
+C:\Users\dogankoc\source\repos\NetCoreJwtAuthentication\NetCoreJwtAuthentication\obj\Debug\netcoreapp2.0\NetCoreJwtAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\dogankoc\source\repos\NetCoreJwtAuthentication\NetCoreJwtAuthentication\obj\Debug\netcoreapp2.0\NetCoreJwtAuthentication.AssemblyInfoInputs.cache
+C:\Users\dogankoc\source\repos\NetCoreJwtAuthentication\NetCoreJwtAuthentication\obj\Debug\netcoreapp2.0\NetCoreJwtAuthentication.AssemblyInfo.cs
+C:\Users\dogankoc\source\repos\NetCoreJwtAuthentication\NetCoreJwtAuthentication\obj\Debug\netcoreapp2.0\NetCoreJwtAuthentication.dll
+C:\Users\dogankoc\source\repos\NetCoreJwtAuthentication\NetCoreJwtAuthentication\obj\Debug\netcoreapp2.0\NetCoreJwtAuthentication.pdb
